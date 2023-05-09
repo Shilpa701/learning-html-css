@@ -1,0 +1,109 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0%;
+    margin-right:0%;
+}
+body{
+    font-size: 17px;
+    line-height: 1.5em;
+}
+.clr{
+    clear:both;
+}
+.title{
+    margin-top: 25px;
+    padding: auto;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+    padding-bottom: 5px;
+    border-top:2px rgb(245, 245, 225) solid ;
+    border-bottom:2px rgb(247, 247, 247) solid ;
+    background-color:#333
+    
+    
+}
+#heading{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: weight 800;
+}
+
+.focus{
+   
+    float: left;
+    height: 215px;
+    padding-right: 3px;
+    width: 49%;
+    border-style: dotted;
+    font-weight: 600;
+    border-color: #ccc;
+    margin-bottom: 50px;
+    border-right: 3px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    background-color: rgba(86, 94, 32, 0.87);
+    color:rgba(255, 250, 250, 0.74)
+}
+.provide{
+    float: left;
+    font-weight: 600;
+    width: 49%;
+    border-style: dotted;
+    border-color: #ccc;
+    box-sizing: border-box;
+    padding-left: 20px;
+    background-color: rgba(163, 175, 48, 0.637);
+    color:rgb(44, 12, 12)
+    
+}
+
+#img{
+    padding-top: 5px;
+    border-color: rgb(21, 138, 233);
+    border: 3;
+    
+}
+.para{
+    word-spacing: .8em;
+    letter-spacing: .1em;
+    width: 80%;
+    background-color: rgb(230, 186, 133,.3);
+    padding: 10px;
+    border-radius: 10px;
+}
+td{
+    font-weight:600;
+    text-align:center
+    
+}
+tr:hover{
+    background-color:bisque
+    
+}
+th{
+    background-color: chocolate;
+    color: #ccc;
+}
+table{
+    border: green;
+}
+#pe{
+    font-weight: 800;
+    margin: 20px;
+    color: rgb(51, 43, 5);
+}
+#am{
+    text-align: center;
+    color: darkgoldenrod;
+}
+.button{
+    position:fixed;
+    top:400px;
+    color: blue;
+    margin-left: 95%;
+}
+a:hover{
+    color:green
+}
